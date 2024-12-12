@@ -15,7 +15,6 @@ No installation is required as this project is hosted on Tableau Public. Follow 
 Explore the interactive visualization:
 [Good Strikers age 22 and Under](https://public.tableau.com/app/profile/sahil.gawnade/viz/GoodStrikersage22andUnder/StrongStrikerUnderAgeof22)
 
-![Dashboard Preview](path/to/dashboard-image.png)
 
 ## Features
 - **Interactive Visualization:** Explore and filter data dynamically.
